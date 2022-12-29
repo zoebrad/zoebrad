@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zoe
+- 👋 Hi, I’m Zoe!
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently studying a Web Development bootcamp, mainly focusing on JavaScript, HTML & CSS currently.
 - 💞️ I’m looking to collaborate on everything!
